@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Eqela Tasklist
+#
+
+projectname: Eqela Tasklist
+vendorid: com.2012042043
+mainmodule: com.2012042043.eqelatasklist
